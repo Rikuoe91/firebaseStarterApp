@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyC9GTd4o40N4gnERrdfqeTDeS4MTMOOfws",
-    authDomain: "first-firebase-project-cb4c4.firebaseapp.com",
-    databaseURL: "https://first-firebase-project-cb4c4.firebaseio.com",
-    projectId: "first-firebase-project-cb4c4",
-    storageBucket: "first-firebase-project-cb4c4.appspot.com",
-    messagingSenderId: "227315936751"
+    apiKey: "AIzaSyDhH8k-PbDOkMa--wTmLJQdhEsWqE4uKt0",
+    authDomain: "speaker-ce85c.firebaseapp.com",
+    databaseURL: "https://speaker-ce85c.firebaseio.com",
+    projectId: "speaker-ce85c",
+    storageBucket: "speaker-ce85c.appspot.com",
+    messagingSenderId: "539774846251"
 };
